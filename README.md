@@ -20,7 +20,13 @@
 - **Experts agree on transparency.** Professionals pick transparency in how taxes are used as the strongest compliance lever (8 of 21); only 1 picks lower rates.
 - **The paper's figures hold up.** 27 of 29 match the coded forms within 5 points. Both exceptions are in education, where the draft has no vocational category (21% of forms).
 
-**Live dashboard:** [AI Tax Reform in Africa: Ghana Case](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY)
+## 🚀 Live interactive dashboard
+
+Explore the survey results in your browser: worker profiles, what drives acceptance of AI, workers' own words, the professionals' view, MTN Ghana and the policy roadmap.
+
+[![Live dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-Open_in_browser-FFB400?style=for-the-badge&labelColor=363445)](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY)
+[![Python](https://img.shields.io/badge/Python-pipeline-54BEBE?style=for-the-badge&logo=python&logoColor=white&labelColor=363445)](#run-it)
+[![Dashboards](https://img.shields.io/badge/Report-7_dashboards-C80064?style=for-the-badge&labelColor=363445)](#the-dashboards)
 
 ## The dashboards
 
