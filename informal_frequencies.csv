@@ -1,0 +1,71 @@
+question,answer,n,base,pct,ci_low,ci_high
+education,No formal education,27,53,50.9,37.9,63.9
+education,Vocational,11,53,20.8,12.0,33.5
+education,Secondary,9,53,17.0,9.2,29.2
+education,Tertiary,6,53,11.3,5.3,22.6
+business,Trading,15,53,28.3,18.0,41.6
+business,Artisanal work,18,53,34.0,22.7,47.4
+business,Services,14,53,26.4,16.4,39.6
+business,Agriculture,6,53,11.3,5.3,22.6
+income,Below GH₵500,2,51,3.9,1.1,13.2
+income,"GH₵500–1,000",13,51,25.5,15.5,38.9
+income,"GH₵1,001–2,000",17,51,33.3,22.0,47.0
+income,"Above GH₵2,000",19,51,37.3,25.3,51.0
+services,Mobile money,51,52,98.1,89.9,99.7
+services,Utility bills,25,52,48.1,35.1,61.3
+services,Market transactions,23,52,44.2,31.6,57.7
+services,Social media for business,10,52,19.2,10.8,31.9
+frequency,Daily,22,53,41.5,29.3,54.9
+frequency,Weekly,5,53,9.4,4.1,20.3
+frequency,Monthly,8,53,15.1,7.9,27.1
+frequency,Occasionally,17,53,32.1,21.1,45.5
+frequency,Never,1,53,1.9,0.3,9.9
+data_helpful,Strongly agree,9,52,17.3,9.4,29.7
+data_helpful,Agree,19,52,36.5,24.8,50.1
+data_helpful,Neutral,12,52,23.1,13.7,36.1
+data_helpful,Disagree,8,52,15.4,8.0,27.5
+data_helpful,Strongly disagree,4,52,7.7,3.0,18.2
+concerns,Privacy,31,52,59.6,46.1,71.8
+concerns,Data security,23,52,44.2,31.6,57.7
+concerns,Misuse of data,26,52,50.0,36.9,63.1
+concerns,Lack of transparency,17,52,32.7,21.5,46.2
+concerns,Don't know,12,52,23.1,13.7,36.1
+share_data,"Yes, definitely",9,52,17.3,9.4,29.7
+share_data,"Yes, with conditions",14,52,26.9,16.8,40.3
+share_data,Not sure,16,52,30.8,19.9,44.3
+share_data,No,13,52,25.0,15.2,38.2
+momo,"Yes, definitely",22,53,41.5,29.3,54.9
+momo,"Yes, with concerns",20,53,37.7,25.9,51.2
+momo,Not sure,1,53,1.9,0.3,9.9
+momo,"No, prefer cash",10,53,18.9,10.6,31.4
+cash_reasons,Easier to manage,11,18,61.1,38.6,79.7
+cash_reasons,Don't trust digital,12,18,66.7,43.7,83.7
+cash_reasons,No mobile phone,1,18,5.6,1.0,25.8
+cash_reasons,Lack of awareness,0,18,0.0,0.0,17.6
+should_pay,Yes,45,53,84.9,72.9,92.1
+should_pay,No,2,53,3.8,1.0,12.8
+should_pay,Not sure,6,53,11.3,5.3,22.6
+benefits,Roads & infrastructure,31,52,59.6,46.1,71.8
+benefits,Healthcare,29,52,55.8,42.3,68.4
+benefits,Education,30,52,57.7,44.2,70.1
+benefits,Security & safety,26,52,50.0,36.9,63.1
+benefits,Don't know,22,52,42.3,29.9,55.8
+barriers,Don't know how to pay,15,53,28.3,18.0,41.6
+barriers,Fear of audit,27,53,50.9,37.9,63.9
+barriers,Distrust of government,39,53,73.6,60.4,83.6
+barriers,Taxes too high,31,53,58.5,45.1,70.7
+barriers,Won't make a difference,40,53,75.5,62.4,85.1
+barriers,Other,1,53,1.9,0.3,9.9
+heard_ai,Yes,19,52,36.5,24.8,50.1
+heard_ai,Not sure,21,52,40.4,28.2,53.9
+heard_ai,No,12,52,23.1,13.7,36.1
+ai_view,Strongly agree,4,51,7.8,3.1,18.5
+ai_view,Agree,7,51,13.7,6.8,25.7
+ai_view,Neutral,20,51,39.2,27.0,52.9
+ai_view,Disagree,7,51,13.7,6.8,25.7
+ai_view,Strongly disagree,13,51,25.5,15.5,38.9
+support,Training,29,51,56.9,43.3,69.5
+support,Affordable devices,35,51,68.6,55.0,79.7
+support,Reliable internet,32,51,62.7,49.0,74.7
+support,Clear government guidelines,36,51,70.6,57.0,81.3
+support,Other (mostly: keep it manual),4,51,7.8,3.1,18.5
