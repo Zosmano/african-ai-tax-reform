@@ -24,9 +24,9 @@
 
 Explore the survey results in your browser: worker profiles, what drives acceptance of AI, workers' own words, the professionals' view, MTN Ghana and the policy roadmap.
 
-[![Live dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-Open_in_browser-FFB400?style=for-the-badge&labelColor=363445)](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY)
-[![Python](https://img.shields.io/badge/Python-pipeline-54BEBE?style=for-the-badge&logo=python&logoColor=white&labelColor=363445)](#run-it)
-[![Dashboards](https://img.shields.io/badge/Report-7_dashboards-C80064?style=for-the-badge&labelColor=363445)](#the-dashboards)
+[![Live dashboard](https://img.shields.io/badge/Live_dashboard-FFB400?style=for-the-badge)](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY)
+[![Python](https://img.shields.io/badge/Python_pipeline-54BEBE?style=for-the-badge&logo=python&logoColor=white)](#run-it)
+[![Dashboards](https://img.shields.io/badge/7_dashboards-C80064?style=for-the-badge)](#the-dashboards)
 
 ## The dashboards
 
