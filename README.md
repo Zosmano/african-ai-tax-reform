@@ -114,4 +114,4 @@ Two workers can't be scored for readiness: respondent 6's last page was never sc
 - **Associations are not causes.** Education, awareness and attitudes move together.
 - **Judgement calls.** The readiness score is a transparent heuristic, not a validated scale; comment themes are single-coded; the SARS / KRA / GRA grid is coded from the paper's own review, where "Not reported" means the paper doesn't mention a capability.
 
-Analysis and design by Osman Zakaria, PMP · © 2026 Osman Zakaria, PMP
+## Analysis and design by Osman Zakaria, PMP · © 2026 Osman Zakaria, PMP ## 
