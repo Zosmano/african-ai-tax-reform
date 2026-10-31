@@ -22,7 +22,7 @@
 
 ## 🚀 Live interactive dashboard
 
-Explore the survey results in your browser: worker profiles, what drives acceptance of AI, workers' own words, the professionals' view, MTN Ghana and the policy roadmap.
+Explore the survey results in your browser: worker profiles, what drives acceptance of AI, workers' own words, the professionals' view, MTN Ghana and the policy roadmap. A **Story films** tab plays three short animated films in three acts (the rails, the gap, the path) with synthesized sound and a narrator; every figure in them is read from the dashboard's own data.
 
 [![Live dashboard](https://img.shields.io/badge/Live_dashboard-FFB400?style=for-the-badge)](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY)
 [![Python](https://img.shields.io/badge/Python_pipeline-54BEBE?style=for-the-badge&logo=python&logoColor=white)](#run-it)
